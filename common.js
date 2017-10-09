@@ -1,3 +1,4 @@
+/* あああ */
 $(function(){
   // category page
   var href = location.href;
